@@ -1,4 +1,4 @@
-﻿<Application x:Class="Com.Largesky.App.App"
+﻿<Application x:Class="Largesky.ExcelApp.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              StartupUri="MainWindow.xaml">
